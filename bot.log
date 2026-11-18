@@ -1,0 +1,18 @@
+2026-11-18 10:08:39 | Lỗi gọi API: HTTPStatusError
+2026-11-18 10:08:40 | USER 9218684916: Thời tiết hôm nay || BOT: ⚠️ Xin lỗi, hiện không gọi được API. Bạn thử lại sau nhé.
+2026-11-18 10:12:41 | Lỗi gọi API: HTTPStatusError
+2026-11-18 10:12:42 | USER 9218684916: Thời tiết hôm nay || BOT: ⚠️ Xin lỗi, hiện không gọi được API. Bạn thử lại sau nhé.
+2026-11-18 10:15:07 | Lỗi API 404: {"error":{"message":"The model `llama-3.3-70b-versatile` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+
+2026-11-18 10:20:04 | USER 9218684916: /start
+2026-11-18 10:20:37 | USER 9218684916: /start
+2026-11-18 10:23:09 | USER 9218684916: /start
+2026-11-18 10:26:02 | USER 9218684916: /start
+2026-11-18 10:26:08 | Nhận tin từ USER 9218684916: Xin chào
+2026-11-18 10:26:10 | USER 9218684916: Xin chào || BOT: Chào bạn! Có điều gì tôi có thể giúp bạn hôm nay không?
+2026-11-18 10:27:13 | Nhận tin từ USER 9218684916: Hôm nay có mưa không
+2026-11-18 10:27:15 | USER 9218684916: Hôm nay có mưa không || BOT: Xin lỗi, mình không biết vị trí của bạn. Bạn muốn biết thời tiết mưa ở thành phố hoặc quốc gia nào?
+2026-11-18 10:27:22 | Nhận tin từ USER 9218684916: Hà Nội
+2026-11-18 10:27:24 | USER 9218684916: Hà Nội || BOT: Hà Nội là thủ đô của Việt Nam, nổi tiếng với Hồ Gươm, Văn Miếu‑Thơm Rừng, chợ Đồng Khởi và nhiều côn
+2026-11-18 10:27:35 | Nhận tin từ USER 9218684916: Có mưa không
+2026-11-18 10:27:36 | USER 9218684916: Có mưa không || BOT: Xin lỗi, mình không có dữ liệu thời tiết ngay thời điểm này. Bạn có thể kiểm tra ứng dụng thời tiết 
